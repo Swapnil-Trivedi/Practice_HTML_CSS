@@ -24,3 +24,53 @@ div#logo img{
     margin: 0 auto;
     padding-top: 100;
 }
+
+div#bar {
+    clear: both;
+    display: block;
+    margin: 0 auto;
+    padding: 20;
+    width: 600;
+
+}
+div#bar #bar1
+{
+    text-align: left;
+    text-indent: 50px;
+    border-color: gray;
+    border: solid gray 1px;
+    border-radius: 350px;
+    
+}
+div#bar #bar1:hover
+{
+    text-align: left;
+    text-indent: 50px;
+    border-color: gray;
+    border: solid gray 2px;
+    border-radius: 350px;
+    
+}
+div#bar #butbar
+{
+    clear: both;
+    display: block;
+    padding-top: 2px;
+    padding-left: 125px;
+    margin: 0 auto;
+}
+
+div#foot{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color:lightgrey;
+
+}
+
+div#foot ul li{
+    display: inline-block;
+    padding:4;
+    height: 10;
+}
