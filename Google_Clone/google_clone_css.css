@@ -1,0 +1,26 @@
+
+div#nav ul{
+    float: right;
+    padding-top: 1;
+}
+div#nav ul li{
+    display: inline-block;
+    padding:8;
+}
+div#nav ul li a{
+    color: black;
+}
+div#nav ul li a#ssin{
+    color: white;
+}
+.material-icons{
+    display: inline;
+    vertical-align: top;
+}
+
+div#logo img{
+    clear: both;
+    display: block;
+    margin: 0 auto;
+    padding-top: 100;
+}
