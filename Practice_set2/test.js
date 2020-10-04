@@ -1,8 +1,6 @@
-alert("Henlo !!!!");
-alert("Hello Again");
-document.bgColor("Blue");
 document.write("Hello Darkness My old Friend");
-for(var i=0;i<10;i++)
+
+function action()
 {
-    console.log(i);
+    alert(Date());
 }
